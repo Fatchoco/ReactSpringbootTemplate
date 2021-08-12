@@ -11,6 +11,9 @@
 # production
 /build
 
+# node project installation
+/node
+
 # misc
 .DS_Store
 .env.local
