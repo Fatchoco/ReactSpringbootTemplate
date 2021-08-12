@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.private</groupId>
-	<artifactId>TestRestReact</artifactId>
+	<artifactId>ReactSpringbootTemplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TestRestReact</name>
+	<name>ReactSpringbootTemplate</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
